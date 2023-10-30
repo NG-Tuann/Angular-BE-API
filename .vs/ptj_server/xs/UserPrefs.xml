@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{8F2B38AC-67A2-4D86-BFC6-139DA80A5FCF}|http">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ptj_server/appsettings.json">
+    <Files>
+      <File FileName="ptj_server/Controllers/ProductDetailController.cs" />
+      <File FileName="ptj_server/Controllers/ProductController.cs" Line="65" Column="33" />
+      <File FileName="ptj_server/Controllers/ProductDiscountController.cs" />
+      <File FileName="ptj_server/appsettings.json" Line="6" Column="121" />
+      <File FileName="ptj_server/Models/Product.cs" />
+      <File FileName="ptj_server/Models/Image.cs" />
+      <File FileName="ptj_server/Services/ProductService.cs" />
+      <File FileName="ptj_server/Models/ProductDiscount.cs" />
+      <File FileName="ptj_server/Services/OrderProductService.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ptj_server" expanded="True">
+            <Node name="ptj_server" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Services" expanded="True" />
+              <Node name="appsettings.json" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ptj__server PreferredExecutionTarget="/Applications/Safari.app" />
+  <MultiItemStartupConfigurations />
+</Properties>
